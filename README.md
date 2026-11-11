@@ -46,7 +46,15 @@ Gambar yang dipakai situs ada di `assets/images/`:
 - `foto-wisuda-santri.jpg`, `foto-wisuda-halaman.jpg`, `foto-belajar-mengaji.jpg`, `foto-belajar-mengaji-tegak.jpg`: hasil potong dari foto WhatsApp (bar status HP dan bar hitam sudah dibuang)
 - `logo-yasma-160.png`, `logo-yasma-512.png`: logo bulat dengan latar transparan
 
+- `foto-tpq-*`, `foto-madani-*`, `foto-sosial-*`, `poster-*`: foto diam yang diambil dari video kegiatan, dikelompokkan per kegiatan
+
 File asli (`wisuda-*.jpeg`, `kegiatan-belajar.jpeg`, `logo-yasma.jpeg`) tidak dipakai lagi tapi tetap disimpan.
+
+## Video
+
+Video di `assets/videos/` dinamai per kegiatan (`video-tpq-*`, `video-madani-*`, `video-sosial-*`). Video baru dimuat saat diputar atau disorot kursor, jadi halaman tetap ringan.
+
+Video mentah dari WhatsApp disimpan di folder `_bahan/` dan tidak ikut ke GitHub. Video panjang (3:39 dan 1:50) sengaja tidak dipakai karena ukurannya besar (38 MB dan 20 MB).
 
 ## Menjalankan
 

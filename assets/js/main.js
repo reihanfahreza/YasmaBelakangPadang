@@ -97,7 +97,7 @@
       category: 'Sosial',
       date: '8 November 2026',
       author: 'Divisi Sosial YASMA',
-      image: null, // belum ada foto kegiatan sosial — tambahkan di sini bila sudah ada
+      image: 'assets/images/foto-sosial-antar.jpg',
       body: [
         '<strong>BELAKANG PADANG</strong> — Yayasan Asma Husnul Khatimah kembali berbagi paket sembako untuk kaum dhuafa di Kampung Baru dan sekitarnya.',
         'Bantuan juga diberikan kepada para penarik becak tradisional, yang setiap hari menjadi tumpuan warga untuk bepergian di pulau. Seluruh bantuan berasal dari infaq dan sedekah para donatur yang dititipkan kepada yayasan.',

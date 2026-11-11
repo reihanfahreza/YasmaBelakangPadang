@@ -7,3 +7,6 @@ WhatsApp*
 node_modules/
 Thumbs.db
 desktop.ini
+
+# Bahan mentah (video WhatsApp) sebelum dipilih
+_bahan/

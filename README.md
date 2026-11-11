@@ -35,7 +35,7 @@ Data berikut masih contoh dari versi lama situs:
 
 - Nomor WhatsApp `+62 812-7000-0000` (`6281270000000` di tautan `wa.me`)
 - Nomor rekening BRK Syariah `101-20-00123` dan BSI `714-889-0123` (di `index.html` dan `donasi.html`, termasuk atribut `data-copy`)
-- Angka statistik di beranda: 250+ santri, 15+ pengajar, 12 angkatan
+- Nama lengkap Ibu Asiah (binti ...) di `index.html` dan `profil.html`
 - Nama dan gelar para pengajar di `profil.html`
 - Isi berita di `assets/js/main.js` (objek `NEWS`)
 

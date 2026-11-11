@@ -36,19 +36,18 @@ Data berikut masih contoh dari versi lama situs:
 - Nomor WhatsApp `+62 812-7000-0000` (`6281270000000` di tautan `wa.me`)
 - Nomor rekening BRK Syariah `101-20-00123` dan BSI `714-889-0123` (di `index.html` dan `donasi.html`, termasuk atribut `data-copy`)
 - Nama lengkap Ibu Asiah (binti ...) di `index.html` dan `profil.html`
-- Nama dan gelar para pengajar di `profil.html`
 - Isi berita di `assets/js/main.js` (objek `NEWS`)
 
 ## Gambar
 
 Gambar yang dipakai situs ada di `assets/images/`:
 
-- `foto-wisuda-santri.jpg`, `foto-wisuda-halaman.jpg`, `foto-belajar-mengaji.jpg`, `foto-belajar-mengaji-tegak.jpg`: hasil potong dari foto WhatsApp (bar status HP dan bar hitam sudah dibuang)
+- `foto-wisuda-santri.jpg`, `foto-wisuda-halaman.jpg`: hasil potong dari foto WhatsApp (bar status HP dan bar hitam sudah dibuang)
 - `logo-yasma-160.png`, `logo-yasma-512.png`: logo bulat dengan latar transparan
 
 - `foto-tpq-*`, `foto-madani-*`, `foto-sosial-*`, `poster-*`: foto diam yang diambil dari video kegiatan, dikelompokkan per kegiatan
 
-File asli (`wisuda-*.jpeg`, `kegiatan-belajar.jpeg`, `logo-yasma.jpeg`) tidak dipakai lagi tapi tetap disimpan.
+File asli (`wisuda-*.jpeg`, `logo-yasma.jpeg`) tidak dipakai lagi tapi tetap disimpan. Foto "bimbingan talaqqi" sudah dihapus atas permintaan yayasan.
 
 ## Video
 

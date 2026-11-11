@@ -109,7 +109,7 @@
       category: 'Pendidikan',
       date: '2 November 2026',
       author: 'Bidang Kurikulum',
-      image: 'assets/images/foto-belajar-mengaji.jpg',
+      image: null,
       body: [
         '<strong>BELAKANG PADANG</strong> — Yayasan Asma Husnul Khatimah menggelar halaqah tajwid, makharijul huruf, dan metode mengajar Al-Qur\'an bagi para pengajar TPQ.',
         'Halaqah ini menjaga agar bacaan yang diajarkan kepada santri tetap tartil dan seragam di semua kelas, sekaligus membiasakan adab belajar Al-Qur\'an sejak dini.',

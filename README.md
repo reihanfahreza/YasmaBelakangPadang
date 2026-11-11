@@ -29,14 +29,13 @@ Situs statis (HTML + CSS + JS biasa, tanpa build) untuk YASMA dan tiga kegiatann
 
 Header dan footer sama di semua halaman. Kalau mengubah menu atau kontak, ubah di ketujuh file.
 
-## Wajib diganti sebelum online
+## Data yang belum lengkap
 
-Data berikut masih contoh dari versi lama situs:
+- **Nomor rekening** sengaja dikosongkan sampai rekening resmi siap. Saat ini beranda dan `donasi.html` menampilkan "Segera diumumkan" plus tombol WhatsApp. Kalau rekening sudah ada, tambahkan di kartu "Rekening resmi yayasan" (`index.html`) dan bagian "Cara menyalurkan" (`donasi.html`).
+- **Nama lengkap Ibu Asiah** (binti ...) di `index.html` dan `profil.html`.
+- **Isi berita** ada di `assets/js/main.js` (objek `NEWS`).
 
-- Nomor WhatsApp `+62 812-7000-0000` (`6281270000000` di tautan `wa.me`)
-- Nomor rekening BRK Syariah `101-20-00123` dan BSI `714-889-0123` (di `index.html` dan `donasi.html`, termasuk atribut `data-copy`)
-- Nama lengkap Ibu Asiah (binti ...) di `index.html` dan `profil.html`
-- Isi berita di `assets/js/main.js` (objek `NEWS`)
+Nomor WhatsApp yayasan: `+62 823-8718-8593` (`6282387188593` di tautan `wa.me`).
 
 ## Gambar
 

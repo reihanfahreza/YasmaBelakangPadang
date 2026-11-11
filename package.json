@@ -4,7 +4,8 @@
   "description": "Website Resmi Yayasan Asma Husnul Khatimah (YASMA) Belakang Padang - Batam",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "versi": "node tools/bust-cache.js ."
   },
   "keywords": [
     "yasma",

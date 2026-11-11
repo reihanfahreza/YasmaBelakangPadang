@@ -55,6 +55,16 @@ Video di `assets/videos/` dinamai per kegiatan (`video-tpq-*`, `video-madani-*`,
 
 Video mentah dari WhatsApp disimpan di folder `_bahan/` dan tidak ikut ke GitHub. Video panjang (3:39 dan 1:50) sengaja tidak dipakai karena ukurannya besar (38 MB dan 20 MB).
 
+## Setelah mengubah CSS atau JS
+
+Jalankan:
+
+```bash
+npm run versi
+```
+
+Perintah ini memberi tanda versi (`style.css?v=…`, `main.js?v=…`) di ketujuh halaman, sehingga browser pengunjung langsung memuat file baru dan tidak memakai salinan lama dari cache. Tanpa ini, tampilan bisa rusak karena HTML sudah baru tapi CSS masih lama.
+
 ## Menjalankan
 
 ```bash

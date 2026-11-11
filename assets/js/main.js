@@ -103,18 +103,6 @@
         'Bantuan juga diberikan kepada para penarik becak tradisional, yang setiap hari menjadi tumpuan warga untuk bepergian di pulau. Seluruh bantuan berasal dari infaq dan sedekah para donatur yang dititipkan kepada yayasan.',
         'Yayasan mengucapkan terima kasih kepada seluruh muhsinin atas kepeduliannya kepada warga pulau.'
       ]
-    },
-    3: {
-      title: 'Halaqah tajwid untuk para pengajar TPQ',
-      category: 'Pendidikan',
-      date: '2 November 2026',
-      author: 'Bidang Kurikulum',
-      image: null,
-      body: [
-        '<strong>BELAKANG PADANG</strong> — Yayasan Asma Husnul Khatimah menggelar halaqah tajwid, makharijul huruf, dan metode mengajar Al-Qur\'an bagi para pengajar TPQ.',
-        'Halaqah ini menjaga agar bacaan yang diajarkan kepada santri tetap tartil dan seragam di semua kelas, sekaligus membiasakan adab belajar Al-Qur\'an sejak dini.',
-        'Dengan kurikulum yang terarah, santri diharapkan tumbuh dengan akidah yang kokoh dan akhlak yang baik.'
-      ]
     }
   };
 

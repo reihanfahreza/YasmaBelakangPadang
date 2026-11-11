@@ -1,7 +1,11 @@
 # Website Yayasan Asma Husnul Khatimah (YASMA)
 ### Kampung Baru, Belakang Padang, Kota Batam
 
-Situs statis (HTML + CSS + JS biasa, tanpa build) untuk YASMA: TPQ Husnul Khatimah, program tahfidz, panti asuhan & LKSA, dan majelis ta'lim.
+Situs statis (HTML + CSS + JS biasa, tanpa build) untuk YASMA dan tiga kegiatannya:
+
+1. TPQ Husnul Khatimah
+2. Majelis Sholawatan Al Madani
+3. Kegiatan sosial (berbagi sembako dan takjil)
 
 ---
 
@@ -15,9 +19,9 @@ Situs statis (HTML + CSS + JS biasa, tanpa build) untuk YASMA: TPQ Husnul Khatim
 
 | File | Isi |
 | --- | --- |
-| `index.html` | Beranda: hero, hadits, tentang, 4 program, sorotan wisuda, video, kabar, infaq, lokasi |
+| `index.html` | Beranda: hero, hadits, tentang, 3 kegiatan, sorotan wisuda, video, kabar, infaq, lokasi |
 | `profil.html` | Sejarah, visi & misi, susunan pengurus, dewan guru |
-| `unit.html` | Detail 4 program + ajakan mendaftar |
+| `unit.html` | Detail 3 kegiatan + ajakan mendaftar |
 | `berita.html` | Daftar kabar (isi lengkap muncul di popup, datanya di `assets/js/main.js`) |
 | `galeri.html` | Foto & video dengan filter |
 | `donasi.html` | Rekening, penyaluran infaq, langkah konfirmasi |

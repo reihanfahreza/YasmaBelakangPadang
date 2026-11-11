@@ -93,13 +93,13 @@
       ]
     },
     2: {
-      title: 'Beras dan santunan untuk anak yatim, dhuafa, dan penarik becak di Kampung Baru',
+      title: 'Berbagi sembako untuk dhuafa dan penarik becak di Kampung Baru',
       category: 'Sosial',
       date: '8 November 2026',
       author: 'Divisi Sosial YASMA',
       image: null, // belum ada foto kegiatan sosial — tambahkan di sini bila sudah ada
       body: [
-        '<strong>BELAKANG PADANG</strong> — Yayasan Asma Husnul Khatimah kembali menyalurkan beras dan santunan tunai untuk kaum dhuafa dan anak-anak yatim binaan di Kampung Baru dan sekitarnya.',
+        '<strong>BELAKANG PADANG</strong> — Yayasan Asma Husnul Khatimah kembali berbagi paket sembako untuk kaum dhuafa di Kampung Baru dan sekitarnya.',
         'Bantuan juga diberikan kepada para penarik becak tradisional, yang setiap hari menjadi tumpuan warga untuk bepergian di pulau. Seluruh bantuan berasal dari infaq dan sedekah para donatur yang dititipkan kepada yayasan.',
         'Yayasan mengucapkan terima kasih kepada seluruh muhsinin atas kepeduliannya kepada warga pulau.'
       ]

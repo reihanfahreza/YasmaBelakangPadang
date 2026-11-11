@@ -1,0 +1,9 @@
+# File mentah dari WhatsApp (isinya sudah disalin ke assets/)
+WhatsApp*
+
+# Konfigurasi lokal editor / Claude Code
+.claude/
+.vscode/
+node_modules/
+Thumbs.db
+desktop.ini
